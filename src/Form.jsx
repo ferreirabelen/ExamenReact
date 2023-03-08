@@ -52,7 +52,7 @@ function Form(){
         
         <form onSubmit={onSubmitFormulario} className="FORM">
         <h1>GUERRA DE LAS GALAXIAS★</h1>
-        <p>En este examen vamos a saber quien es tu personaje favorito de la Saga!!</p>
+        <p>En este examen vamos a saber quien es tu personaje favorito de la Saga!</p>
             <input
             type="text"
             placeholder="Ingresar tu nombre"
