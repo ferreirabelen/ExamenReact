@@ -1,11 +1,12 @@
-import Card from "./Card";
+
+import Form from "./Form";
 
 function App() {
   return (
     <div className="App">
-      <h1>Carga de estudiantes</h1>
-      <form></form>
-      <Card/>
+      
+      <Form/>
+  
       
     </div>
   );
